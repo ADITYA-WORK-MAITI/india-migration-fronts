@@ -1,0 +1,20 @@
+{
+ "counts_file": "data/counts_2015_2025.json",
+ "threshold": 0.5,
+ "winter_min": 0.5,
+ "winter_visitor_candidates": 78,
+ "species_with_front": 71,
+ "arrival_slope_median": -1.2701793814938052,
+ "share_arriving_north_first": 0.8591549295774648,
+ "arrival_sign_test_p": 4.6446053760977124e-10,
+ "departure_slope_median": 0.3543935634150536,
+ "share_leaving_south_first": 0.5633802816901409,
+ "departure_sign_test_p": 0.34247099841986794,
+ "abs_slope_median_arrival": 1.675140628706555,
+ "abs_slope_median_departure": 1.3563479941445156,
+ "share_departure_flatter": 0.5492957746478874,
+ "flatter_wilcoxon_p": 0.15365798747984324,
+ "both_directions_as_expected": 35,
+ "autumn_front_km_per_day_median": 77.34581709109486,
+ "spring_front_km_per_day_median": 88.90056931195518
+}

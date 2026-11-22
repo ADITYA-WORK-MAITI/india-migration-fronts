@@ -29,6 +29,8 @@ Python 3.10 or later.
 
 ## Results
 
+![Arrival and departure timing by latitude](figures/india_fronts.png)
+
 Main setting (threshold 0.5, winter minimum 0.5, all years), `results/summary_main.json`:
 
 | | Arrival (autumn) | Departure (spring) |
